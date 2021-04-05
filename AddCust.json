@@ -1,0 +1,12 @@
+{
+  "customerId": "ABCD",
+  "companyName": "Abcd Inc.",
+  "contactName": "A.B.C.Dinc",
+  "contactTitle": "Owner",
+  "address": "1234 - Acme St - Suite A",
+  "city": "Abcd",
+  "region": "AC",
+  "postalCode": "12345",
+  "country": "USA",
+  "phone": "(501) 555-1234"
+}

@@ -1,0 +1,13 @@
+connect https://localhost:5001
+ls
+cd Customer
+ls
+get 
+get alfki
+post --content "{"customerId": "ABCD","companyName": "Abcd Inc.","contactName": "A.B.C.Dinc"}"
+get abcd
+put --content "{"customerId": "ABCD","companyName": "ACME Inc"}"
+delete abcd
+get abcd
+cd ..
+ls
